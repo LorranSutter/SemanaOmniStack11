@@ -1,6 +1,6 @@
 const express = require('express');
 const cors = require('cors');
-
+const { errors } = require('celebrate');
 const routes = require('./routes');
 
 const app = express();
@@ -8,6 +8,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 app.use(routes);
+app.use(errors());
 
 // Route / Resource
 
@@ -29,14 +30,14 @@ app.use(routes);
  * Request body: Request body used to create or change resources
  */
 
- /**
-  * SQL: MySQL, SQLite, PostgreSQL, Oracle, MS SQL Server, etc...
-  * NoSQL: MongoDB, CouchDB, Firebase, etc...
-  */
+/**
+ * SQL: MySQL, SQLite, PostgreSQL, Oracle, MS SQL Server, etc...
+ * NoSQL: MongoDB, CouchDB, Firebase, etc...
+ */
 
-  /**
-   * Driver: SELECT * FROM users
-   * Query Builder: table('users').select('*').where()
-   */
+/**
+ * Driver: SELECT * FROM users
+ * Query Builder: table('users').select('*').where()
+ */
 
 app.listen(3333);
