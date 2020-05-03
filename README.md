@@ -6,7 +6,7 @@ Project provided by [Rocket Seat](https://rocketseat.com.br/week/inscricao/11.0)
 
 <div align="center">
 
-![Preview][../assets/preview.gif?raw=true]
+![Preview](../assets/preview.gif?raw=true)
 
 </div>
 
