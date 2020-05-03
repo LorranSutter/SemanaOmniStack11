@@ -2,6 +2,14 @@
 
 Project provided by [Rocket Seat](https://rocketseat.com.br/week/inscricao/11.0) to learn backend and frontend web development and mobile using the following technologies:
 
+---
+
+<div align="center">
+
+![Preview][../assets/preview.gif?raw=true]
+
+</div>
+
 - [Node.js](https://nodejs.org/en/)
 - [Reactjs](https://reactjs.org/)
 - [React Native](https://reactnative.dev/)
