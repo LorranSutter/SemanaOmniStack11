@@ -1,6 +1,6 @@
 # OmniStack Week 11.0
 
-Project provided by [Rocket Seat](https://rocketseat.com.br/week/inscricao/11.0) to learn backend and frontend web development and mobile using the following technologies:
+Project provided by [Rocket Seat](https://rocketseat.com.br/week/inscricao/11.0) to learn backend and frontend web development and mobile.
 
 ---
 
@@ -10,6 +10,8 @@ Project provided by [Rocket Seat](https://rocketseat.com.br/week/inscricao/11.0)
 <img src="../assets/mobile_preview.gif?raw=true" alt="Mobile preview" height="300"/>
 
 </div>
+
+## Resources and Technologies
 
 - [Node.js](https://nodejs.org/en/)
 - [Reactjs](https://reactjs.org/)
