@@ -1,6 +1,6 @@
 # OmniStack Week 11.0
 
-Project provided by [Rocket Seat](https://rocketseat.com.br/week/inscricao/11.0) to learn backend and frontend web development and mobile.
+Project provided by [Rocket Seat](https://rocketseat.com.br/week/inscricao/11.0) to learn backend, frontend and mobile development employing React JS, React Native and Express.
 
 ---
 
