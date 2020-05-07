@@ -6,8 +6,8 @@ Project provided by [Rocket Seat](https://rocketseat.com.br/week/inscricao/11.0)
 
 <div align="center">
 
-<img src="../assets/site_preview.gif?raw=true" alt="Site preview" height="300"/>
-<img src="../assets/mobile_preview.gif?raw=true" alt="Mobile preview" height="300"/>
+<img src="https://res.cloudinary.com/lorransutter/image/upload/v1588812449/be_the_hero_site_preview.gif" alt="Site preview" height="300"/>
+<img src="../assets/mobile_preview.gif" alt="Mobile preview" height="300"/>
 
 </div>
 
