@@ -11,7 +11,7 @@ Project provided by [Rocket Seat](https://rocketseat.com.br/week/inscricao/11.0)
 
 </div>
 
-## Resources and Technologies
+## :book: Resources and technologies :computer:
 
 - [Node.js](https://nodejs.org/en/)
 - [Reactjs](https://reactjs.org/)
