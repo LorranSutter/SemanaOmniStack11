@@ -1,8 +1,6 @@
-# OmniStack Week 11.0
+# Be The Hero - OmniStack Week 11.0
 
 Project provided by [Rocket Seat](https://rocketseat.com.br/week/inscricao/11.0) to learn backend, frontend and mobile development employing React JS, React Native and Express.
-
----
 
 <div align="center">
 
@@ -11,16 +9,87 @@ Project provided by [Rocket Seat](https://rocketseat.com.br/week/inscricao/11.0)
 
 </div>
 
+This project aims to create a web application and mobile web app to help **Charities** find people who want to donate for incidents registered on the platform.
+
+The web application is intended for the use of charities, where is possible to:
+
+- Register yourself as a charity institution with name, email, whatsapp number, city and province/state, generating an unique ID used to login.
+- Register a new incident related to the institution, having name, description and value of helping.
+
+The mobile web app is indended for users that want to help charities, where is possible to:
+
+- List all available incidents of all charities.
+- Choose and read details about an incident.
+- Get in touch with the charity, either registered email or whatsapp.
+
+## :runner: How to run
+
+Open your terminal in the folder you want to clone the project
+
+```sh
+# Clone this repo
+git clone https://github.com/LorranSutter/Be-The-Hero.git
+
+# Go to the project
+cd Be-The-Hero
+
+# Go to each folder and install dependencies
+cd backend
+npm install
+
+cd ../frontend
+npm install
+
+cd ../mobile
+npm install
+```
+
+Now you will need two opened terminals to run the project. One for the backend and another one for the frontend or mobile.
+
+Backend will run on http://localhost:3333/
+
+Frontend will run on http://localhost:3000/
+
+Mobile will run on http://localhost:19002/
+
+```sh
+# Go to backend
+cd backend
+
+# Run the project
+npm start
+
+## In the another terminal ##
+
+# Go to frontend
+cd frontend
+
+# Run the project
+npm start
+```
+
+For the mobile web app keep backend running and do the following:
+
+```sh
+# Go to mobile
+cd mobile
+
+# Run the project
+expo start
+```
+
+This will start expo CLI on your browser. A QR code will appear on your screen and in terminal. You can scan this QR code with [Expo app](https://expo.io/tools#client) to see the application running in your phone.
+
 ## :book: Resources and technologies :computer:
 
 - [Node.js](https://nodejs.org/en/)
-- [Reactjs](https://reactjs.org/)
-- [React Native](https://reactnative.dev/)
 - [Express.js](http://expressjs.com/)
+- [Reactjs](https://reactjs.org/)
+- [React Navigation](https://reactnavigation.org/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
 - [Knex](http://knexjs.org/)
 - [Sqlite](https://www.sqlite.org/index.html)
-- [Expo](https://expo.io/)
-- [React Navigation](https://reactnavigation.org/)
 - [Celebrate](https://github.com/arb/celebrate)
 - [Jest](https://jestjs.io/)
 - [Supertest](https://github.com/visionmedia/supertest)
