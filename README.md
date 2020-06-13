@@ -80,7 +80,7 @@ expo start
 
 This will start expo CLI on your browser. A QR code will appear on your screen and in terminal. You can scan this QR code with [Expo app](https://expo.io/tools#client) to see the application running in your phone.
 
-## :computer: Technologies
+## :book: Resources and technologies :computer:
 
 - [Node.js](https://nodejs.org/en/) - executes JS scripts in server side
 - [Express.js](http://expressjs.com/) - web application framework
