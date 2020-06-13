@@ -80,16 +80,20 @@ expo start
 
 This will start expo CLI on your browser. A QR code will appear on your screen and in terminal. You can scan this QR code with [Expo app](https://expo.io/tools#client) to see the application running in your phone.
 
-## :book: Resources and technologies :computer:
+## :computer: Technologies
 
-- [Node.js](https://nodejs.org/en/)
-- [Express.js](http://expressjs.com/)
-- [Reactjs](https://reactjs.org/)
-- [React Navigation](https://reactnavigation.org/)
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.io/)
-- [Knex](http://knexjs.org/)
-- [Sqlite](https://www.sqlite.org/index.html)
-- [Celebrate](https://github.com/arb/celebrate)
-- [Jest](https://jestjs.io/)
-- [Supertest](https://github.com/visionmedia/supertest)
+- [Node.js](https://nodejs.org/en/) - executes JS scripts in server side
+- [Express.js](http://expressjs.com/) - web application framework
+- [ReactJS](https://reactjs.org/) - frontend library
+- [React Navigation](https://reactnavigation.org/) - routing and navigation for react apps
+- [React Native](https://reactnative.dev/) - framework for mobile development
+- [Expo](https://expo.io/) - tool for helping mobile development with react native
+- [Knex](http://knexjs.org/) - query builder
+- [Sqlite](https://www.sqlite.org/index.html) - simple SQL database engine
+- [Celebrate](https://github.com/arb/celebrate) - middleware to validate data
+- [Jest](https://jestjs.io/) - library for tests
+- [Supertest](https://github.com/visionmedia/supertest) - HTTP assertions provider
+
+## :cookie: Credits
+- [Rocket Seat](https://rocketseat.com.br/week/inscricao/11.0)
+- [Diego Fernandes](https://github.com/diego3g)
